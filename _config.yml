@@ -142,6 +142,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
 
 
 # Reading Files
