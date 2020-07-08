@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://skdacha.com/
+  - title: "Projects"
+    url: https://skdacha.com/projects/
+  - title: "Publications"
+    url: https://skdacha.com/publications/
+  - title: "Awards and Accomplishments"
+    url: https://skdacha.com/awards/
+  - title: "Curriculum Vitae"
+    url: https://skdacha.com/cv
+  - title: "Other Interests"
+    url: https://skdacha.com/interests
+  - title: "Contact"
+    url: https://skdacha.com/contact
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
