@@ -149,10 +149,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       # url:
     - label: "Medium"
-      icon: "fa fa-medium"
+      icon: "fab fa-fw fa-medium"
 
 
 # Reading Files
