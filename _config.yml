@@ -103,7 +103,7 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
        # url: "mailto:sdacha@umd.edu"
     - label: "Google Scholar"
-      icon: "fa fa-graduation-cap"
+      icon: "fab fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=E0I73ZQAAAAJ&hl=en&authuser=1"
     - label: "LinkedIn"
       icon: "fa fa-linkedin-square"
