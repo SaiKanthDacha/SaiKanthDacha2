@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sai Kanth Dacha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/Users/saikanthdacha/My files/Github Website/SaiKanthDacha.jpg"
   bio              : "PhD Candidate, University of Maryland"
   location         : "Washington, D.C Metro Area"
   email            :
