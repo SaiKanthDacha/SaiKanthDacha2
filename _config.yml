@@ -102,12 +102,12 @@ author:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
        # url: "mailto:sdacha@umd.edu"
-    - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
-       url: "http://linkedin.com/in/saikanthdacha/"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=E0I73ZQAAAAJ&hl=en&authuser=1"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
+      url: "http://linkedin.com/in/saikanthdacha/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/saikanthdacha"
@@ -139,11 +139,17 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+    - label: "Google Scholar"
+      icon: "fa fa-graduation-cap"
+      # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "LinkedIn"
       icon: "fa fa-linkedin-square"
+      # url:
+    - label: "Medium"
+      icon: "fa fa-medium"
 
 
 # Reading Files
