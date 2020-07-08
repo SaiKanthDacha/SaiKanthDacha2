@@ -117,12 +117,12 @@ author:
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@saikanthdacha"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/saikanthdacha"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/saikanth.dacha"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/saikanthdacha"
+    - #label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://facebook.com/saikanth.dacha"
 
 # Site Footer
 footer:
