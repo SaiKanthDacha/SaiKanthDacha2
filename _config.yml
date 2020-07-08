@@ -102,7 +102,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        # url: "mailto:sdacha@umd.edu"
-
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-square"
        url: "http://linkedin.com/in/saikanthdacha/"
