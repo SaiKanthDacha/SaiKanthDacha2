@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sai Kanth Dacha"
-  avatar           : #"/assets/images/IMG_3907_1.jpg"
+  avatar           : "/assets/images/IMG_3907_1.jpg"
   bio              : "PhD Candidate, University of Maryland"
   location         : "Washington, D.C Metro Area"
   email            :
